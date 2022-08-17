@@ -1,0 +1,11 @@
+Notes 
+
+Data Cleaning (Summary)
+
+    1. Find the file that represents that meaning of each column
+    2. Look into the raw dataset
+    2. Eliminate the irrelevant columns
+    3. Look for null values
+    4. View summary of numerical data (df.describe and df.dtypes)
+    5. Plot data to see distributions and outliers
+    6. Look for the cateogrical values of columns will null values
